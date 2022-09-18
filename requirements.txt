@@ -1,0 +1,6 @@
+gspread
+pandas
+numpy
+streamlit
+plotly
+openpyxl
