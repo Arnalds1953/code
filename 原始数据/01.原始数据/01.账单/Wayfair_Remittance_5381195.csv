@@ -1,0 +1,73 @@
+﻿Wayfair Remittance #: 5381195
+For Supplier: Kadehome Inc
+Date: 08/30/2022
+
+Invoice #,PO #,Date,Amount,StoreID,OrderType
+CA418525295,CA418525295,2022-08-23 00:00:00,712,446,Drop-ship
+CS418161188,CS418161188,2022-08-22 00:00:00,178.56,49,Drop-ship
+CS418239482,CS418239482,2022-08-24 00:00:00,181.78,49,Drop-ship
+CS418243525,CS418243525,2022-08-22 00:00:00,130.66,49,Drop-ship
+CS418293979,CS418293979,2022-08-22 00:00:00,198.4,49,Drop-ship
+CS418345761,CS418345761,2022-08-22 00:00:00,196.8,49,Drop-ship
+CS418384448,CS418384448,2022-08-22 00:00:00,36,49,Drop-ship
+CS418486150,CS418486150,2022-08-23 00:00:00,160,49,Drop-ship
+CS418501841,CS418501841,2022-08-22 00:00:00,65.33,49,Drop-ship
+CS418524495,CS418524495,2022-08-23 00:00:00,195.39,49,Drop-ship
+CS418525141,CS418525141,2022-08-22 00:00:00,113.76,49,Drop-ship
+CS418568054,CS418568054,2022-08-23 00:00:00,426.34,49,Drop-ship
+CS418577467,CS418577467,2022-08-23 00:00:00,62.2,49,Drop-ship
+CS418577963,CS418577963,2022-08-22 00:00:00,198.4,49,Drop-ship
+CS418628964,CS418628964,2022-08-24 00:00:00,130.66,49,Drop-ship
+CS418767222,CS418767222,2022-08-24 00:00:00,65.33,49,Drop-ship
+CS418773627,CS418773627,2022-08-23 00:00:00,26.96,49,Drop-ship
+CS418813822,CS418813822,2022-08-25 00:00:00,1272.46,49,Drop-ship
+CS418825688,CS418825688,2022-08-25 00:00:00,163.2,49,Drop-ship
+CS418888860,CS418888860,2022-08-25 00:00:00,188.65,49,Drop-ship
+CS418921545,CS418921545,2022-08-25 00:00:00,198.4,49,Drop-ship
+
+Wayfair Allowance for Damages/Defects/Returns,,0.07,-343.09
+Wayfair Early Pay Discount,,0.03,-147.04
+
+Credit,CS405346629,05/31/2022,-12.84
+Item: Kade-62414-CW,Qty: 1
+Customer: Benjamin C Rote,Reason: Replacement Part
+Desc: "Credit reflects cost of replacement shipping costs we incurred totaling 12.84. Credit reflects the costs of carrier invoice(s) 000000Y36935282."
+
+Credit,CS408492849,06/16/2022,-35.52
+Item: KH-ED21OD372-NV,Qty: 1
+Customer: Jeffrey Barrett,Reason: Replacement Part
+Desc: "Credit reflects cost of replacement shipping costs we incurred totaling 35.52. Credit reflects the costs of carrier invoice(s) 0000009Y8036282."
+
+Credit,CS411124012,07/06/2022,-109.83
+Item: KA-HS60SC-BR,Qty: 1
+Customer: Richard Ashwood,Reason: Replacement Part
+Desc: "Credit reflects cost of replacement shipping costs we incurred totaling 109.83. Credit reflects the costs of carrier invoice(s) 0000009Y8036312."
+
+Credit,CS406382872,06/03/2022,-41.82
+Item: KA-HS53CT-BR,Qty: 1
+Customer: Jeffrey Symes,Reason: Replacement Part
+Desc: "Credit reflects cost of replacement shipping costs we incurred totaling 41.82. Credit reflects the costs of carrier invoice(s) 780408928."
+
+Credit,CS411124012,07/06/2022,-38.71
+Item: KA-HS60SC-BR,Qty: 1
+Customer: Richard Ashwood,Reason: Replacement Part
+Desc: "Credit reflects cost of replacement shipping costs we incurred totaling 38.71. Credit reflects the costs of carrier invoice(s) 0000009Y8036302."
+
+Credit,CS396354398,04/11/2022,-58.55
+Item: Kade-65638-CW,Qty: 1
+Customer: Debbie Devine,Reason: Replacement Part
+Desc: "Credit reflects cost of replacement shipping costs we incurred totaling 58.55. Credit reflects the costs of carrier invoice(s) 000000Y36935292."
+
+Credit,CS407428764,06/09/2022,-10.83
+Item: KA-HS26CT-BR,Qty: 1
+Customer: Jessica Fleck Raymond,Reason: Replacement Part
+Desc: "Credit reflects cost of replacement shipping costs we incurred totaling 10.83. Credit reflects the costs of carrier invoice(s) 780016541."
+
+Credit,CS412465753,07/12/2022,-41.62
+Item: KA-HS35SC-BR,Qty: 1
+Customer: Andrew Ray,Reason: Replacement Part
+Desc: "Credit reflects cost of replacement shipping costs we incurred totaling 41.62. Credit reflects the costs of carrier invoice(s) 784663823."
+
+
+
+,,Total:,4061.43

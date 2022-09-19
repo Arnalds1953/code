@@ -1,0 +1,21 @@
+﻿Wayfair Remittance #: 5363101
+For Supplier: Kadehome Inc
+Date: 08/26/2022
+
+Invoice #,PO #,Date,Amount,StoreID,OrderType
+CS417776636,CS417776636,2022-08-18 00:00:00,108.93,49,Drop-ship
+CS417817771,CS417817771,2022-08-19 00:00:00,108.36,49,Drop-ship
+CS417876580,CS417876580,2022-08-18 00:00:00,196.8,49,Drop-ship
+CS418048818,CS418048818,2022-08-19 00:00:00,26.96,49,Drop-ship
+
+Wayfair Allowance for Damages/Defects/Returns,,0.07,-30.87
+Wayfair Early Pay Discount,,0.03,-13.23
+
+Credit,CS406539342,06/06/2022,-39.14
+Item: Kade-70444+CW,Qty: 1
+Customer: Randy Adams,Reason: Replacement Part
+Desc: "Credit reflects cost of replacement shipping costs we incurred totaling 39.14. Credit reflects the costs of carrier invoice(s) 000000Y36935282."
+
+
+
+,,Total:,357.81
